@@ -26,4 +26,4 @@ password = ""
 for char in password_list:
   password += char
 
-print(f"Your new password is {password}")
+print(f"Your random generated password is {password}")
